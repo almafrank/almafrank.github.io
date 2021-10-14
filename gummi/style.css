@@ -1,0 +1,63 @@
+.huvudrubrik{
+    background-color:darkslategray;
+    color:green;
+    text-align: center;
+    
+}
+.text{
+color:firebrick;
+text-align: center;
+font-style: Lucida Sans ;
+font-size: large;
+border-style:solid;
+border-color:darkred;
+border-width: thick;
+}
+
+div{
+background-color: ivory;
+}
+
+
+.bakgrund{
+    color:rgb(17, 18, 19);
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+    border-radius: 50%;
+  }
+
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  .programmeringsbakgrund{
+    color:black;
+  }
+  .programmeringtext{
+    color:maroon;
+    text-align:center;
+    border-style: solid;
+    
+  }
+  li{
+    color:darkgreen;
+    border-style: solid;
+    border-color: maroon;
+    border-width: thick;
+
+  }
+  .lankar{
+    color:darkred;
+  }
+ 
